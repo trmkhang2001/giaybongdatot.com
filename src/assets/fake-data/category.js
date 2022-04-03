@@ -1,16 +1,8 @@
 const category = [
     {
-        display: "Áo thun",
-        categorySlug: "ao-thun"
+        display: "Giày Nike",
+        categorySlug: "giay-nike"
     },
-    {
-        display: "Áo somi",
-        categorySlug: "ao-somi"
-    },
-    {
-        display: "Quần jean",
-        categorySlug: "quan-jean"
-    }
 ]
 
 export default category
