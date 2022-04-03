@@ -89,7 +89,7 @@ const products = [
         colors: ["white", "red", "orange", "yellow"],
         slug: "CU5693-600",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Tiempo Legend 9 Academy TF Motivation pack- White/ Volt/ Bright Crimson DA1191-176",
@@ -100,7 +100,7 @@ const products = [
         colors: ["white", "red", "orange", "yellow"],
         slug: "DA1191-176",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Tiempo Legend 9 Academy TF- Light Photo Blue/ Black/ Lime Glow DA1191-403",
@@ -111,7 +111,7 @@ const products = [
         colors: ["white", "red", "orange", "yellow"],
         slug: "DA1191-403",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Mercurial Superfly 8 Academy FG/AG- Bright Crimson/ Metallic Silver CV0843-600",
@@ -122,7 +122,7 @@ const products = [
         colors: ["white", "red", "orange", "yellow"],
         slug: "CV0843-600",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Premier II FG- White/ University Red 917803-161",
@@ -133,7 +133,7 @@ const products = [
         colors: ["white", "red", "orange", "yellow"],
         slug: "917803-161",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Mercurial Superfly 8 Academy TF Mbappe Flames- Light Thistle/ Metallic Silver DB2868-506",
@@ -144,7 +144,7 @@ const products = [
         colors: ["white", "red", "orange", "yellow"],
         slug: "DB2868-506",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "NIKE MERCURIAL ZOOM VAPOR 14 PRO TF SILVER SAFARI - WHITE/BLACK/METALLIC SILVER/VOLT",
@@ -155,7 +155,7 @@ const products = [
         colors: ["blue", "black"],
         slug: "0000",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "NIKE TIEMPO LEGEND 8 PRO TF PLAY MODE - CARDINAL RED/BLACK/CRIMSON TINT/WHITE",
@@ -166,7 +166,7 @@ const products = [
         colors: ["blue"],
         slug: "0000",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Superfly 7 Academy TF AT7978-606",
@@ -177,7 +177,7 @@ const products = [
         colors: ["white", "red", "orange"],
         slug: "AT7978-606",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Mercurial Vapor 14 Pro TF Blueprint pack  Chlorine Blue / Laser Orange DJ2851-484",
@@ -188,7 +188,7 @@ const products = [
         colors: ["white", "red", "blue"],
         slug: "DJ2851-484",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Phantom GT Academy Flyease FG/MG- Black/ Cyber/ Light Photo Blue DA2835-090",
@@ -199,7 +199,7 @@ const products = [
         colors: ["white", "red", "orange", "yellow"],
         slug: "DA2835-090",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Mercurial Superfly 8 Academy FG/AG- Bright Crimson/ Metallic Silver CV0843-600",
@@ -210,7 +210,7 @@ const products = [
         colors: ["white", "red", "orange", "yellow"],
         slug: "CV0843-600",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Premier II FG- White/ University Red 917803-161",
@@ -221,7 +221,7 @@ const products = [
         colors: ["white", "red", "orange", "yellow"],
         slug: "917803-161",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     {
         title: "Nike Mercurial Superfly 8 Academy TF Mbappe Flames- Light Thistle/ Metallic Silver DB2868-506",
@@ -232,7 +232,7 @@ const products = [
         colors: ["white", "red", "orange", "yellow"],
         slug: "DB2868-506",
         size: ["39","41", "42", "43", "44"],
-        description: "- Thương hiệu của Mỹ. - Được thành lập vào năm 1964. - Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. - Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
+        description: "- Thương hiệu của Mỹ. Được thành lập vào năm 1964. Thành tựu: Thương hiệu thời trang thể thao số 1 thế giới, tính đến năm 2020. Các dòng sản phẩm chính: Nike cung cấp đa dạng các sản phẩm như giày thể thao, quần áo thể thao, dụng cụ, thiết bị và phụ kiện thể thao, được chia theo 8 dòng riêng, bao gồm bóng rổ, bóng đá, chạy bộ, Jordan, đồ tập cho nam, đồ tập cho nữ, thời trang thể thao và đồ tập cho trẻ."
     },
     // 18 products
 ]
